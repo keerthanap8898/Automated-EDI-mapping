@@ -1,0 +1,7 @@
+ {
+
+	var SystemContext sys = new SystemContext
+	var BaseGlobalContext glb = new BaseGlobalContext
+	var EnvironmentContext env = new EnvironmentContext
+	def execute(StorageNode sourceNode, StorageNode targetNode, TransformationSettings settings, StorageNode updateNode, StorageNode sourceContextNode, StorageNode targetContextNode) {
+		var source = bindInput(typeof(

@@ -1,0 +1,13 @@
+), targetNode)
+
+		options [
+			connectorOptions [
+				sourceConnector = new ConvertFileDelimitedToDocument
+				targetConnector = new ConvertDocumentToFile
+			]
+			advancedOptions [
+				useOnlyRequiredAttributes = true
+			]
+		]
+
+		for source._
