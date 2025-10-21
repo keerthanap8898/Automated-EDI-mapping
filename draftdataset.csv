@@ -1,0 +1,721 @@
+attribute_name,attribute_name_alternatives
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
+name,Name
+name,NAME
+name,nAME
+name,first name
+name,FName
+name,FNAME
+name,FIRST name
+name,FIRST NAME
+name,fNAME
+name,nAme
+name,n
+name,fn
+name,ln
+name,last name
+name,LName
+name,LNAME
+name,LAST name
+name,LAST NAME
+name,lNAME
+name,name
+phone,Phone number
+phone,ph no
+phone,Pno
+phone,pnum
+phone,phnum
+phone,ph.n
+phone,ph.no
+phone,ph.num
+phone,Phone
+phone,ph
+phone,Ph
+phone,phone
+phone,telephone
+phone,Telephone
+phone,PHONE NUMBER
+phone,PHNUM
+phone,PHNUMBER
+phone,TELEPHONE
+phone,tele
+phone,phone number
+address,address
+address,add
+address,addr
+address,ADD
+address,ADDR
+address,ADDRESS
+address,lcn
+address,location
+address,locn
+address,LCN
+address,LOCATION
+address,LOCN
+address,area
+address,Area
+address,AREA
+address,Location
+address,Address
+address,Residence
+address,residence
+address,address
