@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 def extract_attr(filename1,filename2,ds,dd):
     #SOURCE AND DESTINATION DATA FILENAME ONLY
@@ -32,12 +30,9 @@ def extract_attr(filename1,filename2,ds,dd):
     return(path,pack,source,dest,so,de)
 
 
-# In[ ]:
-
-
 def extract_source_attr(ds):
     l1=l2=[]
-    dicts={}#SOURCE NODE ATTRIBUTES AND THEIR TYPES
+    dicts={} #SOURCE NODE ATTRIBUTES AND THEIR TYPES
     cond=0
     stringToMatch="def record Source {"
     for line in ds:
@@ -61,9 +56,6 @@ def extract_source_attr(ds):
     return(dicts)
 
 
-# In[ ]:
-
-
 def extract_dest_attr(dd):
     ll1=ll2=[]
     dictd={}#DESTINATION NODE ATTRIBUTES AND THEIR TYPES
@@ -77,11 +69,3 @@ def extract_dest_attr(dd):
                 dictd[ll1[0]]=ll1[1]
     print (dictd)
     return(dictd)
-
-
-# In[ ]:
-
-
-
-    
-
