@@ -7,9 +7,9 @@
 from tkinter.filedialog import askopenfilename
 from fuzzywuzzy import fuzz 
 from fuzzywuzzy import process 
-import source_target_select as sts
-import extract_details as ed
-import ruleset_generation as rg
+from code import source_target_select as sts
+from code import extract_details as ed
+from code import ruleset_generation as rg
 
 
 # In[2]:
