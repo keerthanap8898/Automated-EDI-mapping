@@ -26,8 +26,8 @@ def predict_map(dicts,dictd):
 
 
 def generate_RS(path,pack,source,dest,so,de,final):
-    d1=(open("text1.txt","+r")).read()
-    d2=(open("text2.txt","+r")).read()
+    d1=(open("raw_template-text/text1.txt","+r")).read()
+    d2=(open("raw_template-text/text2.txt","+r")).read()
     #print(d1)
     #print(d2)
     filename=path+"\\\\"+source+"to"+dest+"RS.ruleset"
