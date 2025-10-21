@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+
 
 
 from fuzzywuzzy import fuzz 
@@ -22,7 +22,6 @@ def predict_map(dicts,dictd):
     
 
 
-# In[6]:
 
 
 def generate_RS(path,pack,source,dest,so,de,final):
@@ -45,7 +44,6 @@ def generate_RS(path,pack,source,dest,so,de,final):
     return(filename)
 
 
-# In[ ]:
 
 
 
