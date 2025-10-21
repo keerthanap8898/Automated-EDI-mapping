@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
 
 from tkinter.filedialog import askopenfilename
 def select_files():
@@ -13,22 +11,3 @@ def select_files():
     ds=(open(filename1,"r")).readlines()
     dd=(open(filename2,"r")).readlines()
     return(filename1,filename2,ds,dd)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
